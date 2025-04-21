@@ -8,7 +8,7 @@ const Index: FC = () => {
       <CoinFlip />
       
       <footer className="text-center text-xs text-muted-foreground mt-12 pb-6">
-        <p>SOL Flip Fortune — A Solana gambling game</p>
+        <p>Coinflip Solana Wallet — A Solana gambling game</p>
         <p className="mt-1">Platform fee: 3% • Running on Solana Devnet</p>
         <p className="mt-3 max-w-md mx-auto">
           <span className="text-sol-purple">Note:</span> This app runs on Solana Devnet for testing. 

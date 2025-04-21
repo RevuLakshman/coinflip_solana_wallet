@@ -9,7 +9,7 @@ import {
 import { WalletContextState } from '@solana/wallet-adapter-react';
 
 // Platform wallet address (3% fee will go here)
-const PLATFORM_WALLET = new PublicKey('ARmw5LLa95Ga7ahLZU7Jy7wUmJY5pdkFRu26DVMsZZpG');
+const PLATFORM_WALLET = new PublicKey('9vHZdHFogR41vxGb9TeEwLJeyzGrJ3aDrTmvgtBAGQUn');
 const PLATFORM_FEE_PERCENT = 3;
 
 // Convert SOL to lamports (1 SOL = 1,000,000,000 lamports)
