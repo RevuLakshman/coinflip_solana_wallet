@@ -1,6 +1,7 @@
 ## How can I edit this code?
 
-![coinflip_solana_wallet](https://github.com/user-attachments/assets/0b72f997-e3ac-498f-9ca3-aed298b1ab15)
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/943c88db-abe0-490e-8927-0447983cbdc2" />
+
 
 
 There are several ways of editing your application.
